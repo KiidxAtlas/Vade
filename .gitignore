@@ -1,0 +1,11 @@
+### Credentials ###
+secrets.txt
+
+### Virtual environment ###
+env
+.env
+.venv
+venv
+
+### Development ###
+.vscode
